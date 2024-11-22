@@ -11,7 +11,7 @@ redirect_from:
 
 **Resume**  
 You can view and download my resume in PDF format by clicking the link below:
-[Download Resume](files/resume.pdf)
+[Download Resume](files/Resume.pdf)
 
 Education
 ======
